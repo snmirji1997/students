@@ -17,6 +17,8 @@
   },
   "homepage": "https://github.com/snmirji1997/students#readme",
   "dependencies": {
-    "express": "^4.19.1"
+    "express": "^4.19.1",
+    "nodemon": "^3.1.0",
+    "pg": "^8.11.3"
   }
 }
